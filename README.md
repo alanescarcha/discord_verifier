@@ -62,6 +62,9 @@ curl --location 'http://localhost:40000/admin/deleteRole' \
 
 # Environment variables
 
+- #### PORT
+  - API Web port
+
 - #### SECRET
   - The secret key with which the signature will be generated can be any string
 
