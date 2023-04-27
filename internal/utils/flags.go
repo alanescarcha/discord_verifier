@@ -7,5 +7,5 @@ var (
 	FlagDiscordGuild   = os.Getenv("DISCORD_GUILD")
 	FlagDiscordToken   = os.Getenv("DISCORD_TOKEN")
 	FlagSecretPassword = os.Getenv("SECRET")
-	FlagWebPort = os.Getenv("PORT")
+	FlagWebPort        = os.Getenv("PORT")
 )
